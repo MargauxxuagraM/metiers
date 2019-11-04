@@ -1,0 +1,17 @@
+Package: metiers
+Title: Projet R M1SSD
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Lina",
+           family = "Khodja",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Visualisation de données à partir d'un fichier excel, comparaison de métiers et de régions
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: 
+    dplyr,
+    ggplot2
